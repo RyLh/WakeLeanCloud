@@ -1,6 +1,7 @@
 import requests
 import sys
-import time
+import time 
+
 
 if (len(sys.argv) >= 2):
     urls = sys.argv[1].split(',')
