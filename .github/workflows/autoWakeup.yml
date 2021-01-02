@@ -1,5 +1,5 @@
 #自动激活Lean Cloud
-name: AutoWakeUpLeanCLoud
+name: AutoWakeUpLeanCLoud 
 
 on: 
   release:
