@@ -1,7 +1,7 @@
 #自动激活Lean Cloud
-name: AutoWakeUpLeanCLoud 
+name: AutoWakeUpLeanCLoud
 
-on: 
+on:
   release:
     types: [published]
   push:
